@@ -1,1 +1,3 @@
 baseurl:/blogloc
+
+theme: jekyll-theme-slate
